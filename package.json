@@ -6,13 +6,13 @@
     "emoji",
     "fluent-emoji"
   ],
-  "homepage": "https://github.com/lobehub/fluent-emoji",
+  "homepage": "https://github.com/mohameodo/fluent-emoji",
   "bugs": {
-    "url": "https://github.com/lobehub/fluent-emoji/issues/new"
+    "url": "https://github.com/mohameodo/fluent-emoji"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/fluent-emoji.git"
+    "url": "https://github.com/mohameodo/fluent-emoji"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
