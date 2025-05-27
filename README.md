@@ -1,13 +1,9 @@
  <div align="center">
     <a name="readme-top"></a>
-    <img height="120" src="https://nexiloop.com/assets/logo-3d.webp">
-    <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-    <img height="120" src="https://nexiloop.com/assets/emoji-3d/1f600.webp">
     <h1>✨ Nexiloop Emoji 3D ✨</h1>
     <p>Modern. Bold. Extra. These aren’t your grandma’s emojis.<br>
     Browse the full chaos at <a href="https://nexiloop.com/emojis">nexiloop.com/emojis</a><br>
     Pull up with suggestions, ideas, or emoji lore on GitHub.</p>
-    <img src="https://nexiloop.com/assets/emoji-showcase.webp" alt="Emoji Teaser">
   </div>
 
   <h2>⚡ Why Nexiloop Emojis Slay</h2>
